@@ -23,8 +23,9 @@ private void SpawnTile()
     }
     ```
     
+    
  + 이동 방향 교차
- ''' csharp
+ ``` csharp
   private void MoveTile()
     {
         tileTransition += Time.deltaTime * tileSpeed;
