@@ -21,8 +21,7 @@ private void SpawnTile()
 
         ColorMesh(theStack[stackIndex].GetComponent<MeshFilter>().mesh);
     }
-    
-    ```
+```
     
     
  + 이동 방향 교차
