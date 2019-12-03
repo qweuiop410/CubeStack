@@ -4,6 +4,7 @@
 <img src="https://postfiles.pstatic.net/MjAxOTEyMDRfMjEz/MDAxNTc1NDAyNzY1MTI3.tfigHtwBbagtRGWHOqgH1o8946ERtnoj-BUkV_dHlIog.pPGJhdlfhX-hhzf4byhcFRAh-wBY_rUVU78O96IP6Jsg.PNG.whdals410/CubeStack_2.png?type=w773" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="IMG"></img>
 
 + 게임 'Cube Stack'을 따라 만들었습니다
+    + [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack&hl=ko)
 + 타이밍에 맞게 클릭해 큐브를 쌓아 올리는 게임입니다.
 + 쌓지 못했을때 다시 처음화면으로 돌아갑니다
 
